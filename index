@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giusi Nunzia Logistic Srl</title>
+</head>
+<body>
+    <header>
+        <h1>Benvenuti su Giusi Nunzia Logistic Srl</h1>
+        <p>Trasporti e Logistica con serietà e voglia di crescere.</p>
+    </header>
+
+    <section>
+        <h2>I Nostri Servizi</h2>
+        <p>Offriamo trasporti nazionali e gestione della logistica su tutto il territorio italiano.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Giusi Nunzia Logistic Srl</p>
+    </footer>
+</body>
+</html>
